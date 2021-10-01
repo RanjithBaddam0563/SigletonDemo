@@ -26,6 +26,8 @@ class ViewController: UIViewController {
         //print(a.value) // 2
         
         //print(a.value) // 3
+        //print(a.value) // 4
+
 
     }
 
