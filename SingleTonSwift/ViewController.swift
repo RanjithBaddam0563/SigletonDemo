@@ -20,8 +20,10 @@ class ViewController: UIViewController {
         b.value = 2
 
         print(a.value) // 2
+//print(a.value) // 2
 
-
+        //print(a.value) // 2
+        //print(a.value) // 2
 
     }
 
